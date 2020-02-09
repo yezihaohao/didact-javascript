@@ -1,0 +1,1 @@
+![javascript垃圾回收](https://raw.githubusercontent.com/yezihaohao/didact-javascript/master/imgs/JavaScript垃圾回收.jpeg)
